@@ -1,10 +1,11 @@
-# TuxHack-1.2-Decomp-Remapped
- Idk what this is tbh Vulcan skid???
+# TuxHack v1.2 Decompiled & Remapped
 
-wtf is this??
+## Not sure what this is...
+Probably a Vulcan skid by the looks of it. 
 
-idk???
 
-shout out Zihasz 
+Very bad client, seriously when will someone give me a good client to work with FFS.
 
-no i won't say who leaked this client
+Anyways, decompiled and remapped for fun, no, I will not offer support for it. 
+
+Go to the releases jar to download the release jar. 
